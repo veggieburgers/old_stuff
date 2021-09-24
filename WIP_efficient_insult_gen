@@ -1,0 +1,9 @@
+# NOTE: This is a work in progress, I've been trying to figure out how to make the insult generator more efficient.
+# Current version (WIP)
+from random import choice
+adjectives = ["wet", "big"]
+nouns = ["turnip", "dog"]
+insult = choice(adjectives + nouns)
+print(insult)
+
+# Original version
