@@ -4,7 +4,7 @@ from random import choice
 adjectives = ["wet", "big"]
 nouns = ["turnip", "dog"]
 insult = choice(adjectives + nouns)
-print(insult)
+print("You are a ", insult)
 
 # Original version
 # from random import choice
