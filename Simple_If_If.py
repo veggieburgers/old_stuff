@@ -1,4 +1,4 @@
-# Original Title: Simple If If (GA-sorta)
+# Original Title: Simple If If (messing around with my General Assembly homework).
 question = input("Do you now?\n")
 
 yes = "yes"
